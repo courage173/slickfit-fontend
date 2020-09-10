@@ -1,9 +1,8 @@
-import React from 'react'
-
+import Items from '../components/items';
 const index = () => {
     return (
         <div>
-            <h5>Home</h5>
+            <Items />
         </div>
     )
 }
